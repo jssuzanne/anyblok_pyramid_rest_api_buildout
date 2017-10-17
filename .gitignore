@@ -1,0 +1,27 @@
+syntax: glob
+
+etc/
+bin/
+dist
+eggs
+parts
+var/
+doc/
+develop-eggs
+docs/_build/
+anyblok-pyramid-rest-api/
+.installed.cfg
+*.egg-info
+*.swp
+*.mo
+*.orig
+*.dump
+*.pyc
+*.pyo
+*.log
+*.coverage
+*.noseids
+*\#
+*.\#*
+*~
+documentation/_build
