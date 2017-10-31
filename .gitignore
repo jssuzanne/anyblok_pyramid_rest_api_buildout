@@ -10,6 +10,7 @@ doc/
 develop-eggs
 docs/_build/
 anyblok-pyramid-rest-api/
+anyblok_marshmallow/
 .installed.cfg
 *.egg-info
 *.swp
